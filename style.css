@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+}
+
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: #0366d6;
+}
+nav a:hover {
+  text-decoration: underline;
+}
