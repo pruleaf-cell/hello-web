@@ -1,0 +1,9 @@
+{
+  "name": "hello-web",
+  "version": "1.0.0",
+  "description": "Simple website example",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
