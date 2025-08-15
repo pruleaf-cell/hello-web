@@ -1,0 +1,12 @@
+{
+  "name": "hello-web",
+  "version": "1.0.0",
+  "description": "Simple website demonstrating multiple scripts",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/utils.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
